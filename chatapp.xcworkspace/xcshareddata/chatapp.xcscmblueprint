@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "782475ED4ED21C4008FC23E2EBB49696EA4F2E93",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "782475ED4ED21C4008FC23E2EBB49696EA4F2E93" : 9223372036854775807,
+    "2FFE561CB25839E325B81B5920F59DA17E05FDB2" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CD45BCC9-B3FC-4C8B-81BC-A77C39ADD05F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "782475ED4ED21C4008FC23E2EBB49696EA4F2E93" : "chatapp\/",
+    "2FFE561CB25839E325B81B5920F59DA17E05FDB2" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "chatapp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "chatapp.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.heroku.com\/murmuring-cove-78787.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2FFE561CB25839E325B81B5920F59DA17E05FDB2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/NitishPunj\/chat-app.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "782475ED4ED21C4008FC23E2EBB49696EA4F2E93"
+    }
+  ]
+}

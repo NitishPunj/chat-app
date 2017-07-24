@@ -15,6 +15,7 @@
 		0380D23E1F2637B800CFE789 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0380D23C1F2637B800CFE789 /* LaunchScreen.storyboard */; };
 		0380D2491F2637B800CFE789 /* chatappTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0380D2481F2637B800CFE789 /* chatappTests.swift */; };
 		0380D2541F2637B900CFE789 /* chatappUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0380D2531F2637B900CFE789 /* chatappUITests.swift */; };
+		0380D2621F26421300CFE789 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0380D2611F26421300CFE789 /* GoogleService-Info.plist */; };
 		30B3F2980E93B3E8A70EFB05 /* Pods_chatappTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B6BAB7376FA9DA41DDE40B3A /* Pods_chatappTests.framework */; };
 		9F8136821DB6181DBF73BAB3 /* Pods_chatappUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E587F5DE3B7EB03185CBBAC5 /* Pods_chatappUITests.framework */; };
 		A2B76CA6CB287D94A1EAC87F /* Pods_chatapp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22F8B425751F798B4D0E7043 /* Pods_chatapp.framework */; };
@@ -52,6 +53,7 @@
 		0380D24F1F2637B900CFE789 /* chatappUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = chatappUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0380D2531F2637B900CFE789 /* chatappUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = chatappUITests.swift; sourceTree = "<group>"; };
 		0380D2551F2637B900CFE789 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0380D2611F26421300CFE789 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		22F8B425751F798B4D0E7043 /* Pods_chatapp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_chatapp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C14D6F34BFDA5C448C6685D /* Pods-chatapp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-chatapp.release.xcconfig"; path = "Pods/Target Support Files/Pods-chatapp/Pods-chatapp.release.xcconfig"; sourceTree = "<group>"; };
 		400900182156DC5B9B918032 /* Pods-chatappUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-chatappUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-chatappUITests/Pods-chatappUITests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -122,6 +124,7 @@
 				0380D23A1F2637B800CFE789 /* Assets.xcassets */,
 				0380D23C1F2637B800CFE789 /* LaunchScreen.storyboard */,
 				0380D23F1F2637B800CFE789 /* Info.plist */,
+				0380D2611F26421300CFE789 /* GoogleService-Info.plist */,
 				0380D2371F2637B800CFE789 /* chatapp.xcdatamodeld */,
 			);
 			path = chatapp;
@@ -285,6 +288,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0380D23E1F2637B800CFE789 /* LaunchScreen.storyboard in Resources */,
+				0380D2621F26421300CFE789 /* GoogleService-Info.plist in Resources */,
 				0380D23B1F2637B800CFE789 /* Assets.xcassets in Resources */,
 				0380D2361F2637B800CFE789 /* Main.storyboard in Resources */,
 			);
@@ -700,6 +704,7 @@
 				0380D25A1F2637B900CFE789 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0380D25B1F2637B900CFE789 /* Build configuration list for PBXNativeTarget "chatappTests" */ = {
 			isa = XCConfigurationList;
@@ -708,6 +713,7 @@
 				0380D25D1F2637B900CFE789 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0380D25E1F2637B900CFE789 /* Build configuration list for PBXNativeTarget "chatappUITests" */ = {
 			isa = XCConfigurationList;
@@ -716,6 +722,7 @@
 				0380D2601F2637B900CFE789 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
